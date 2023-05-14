@@ -265,4 +265,4 @@ if we miss g at last first letter in the line will only be chnaged
    60  sed '=' file1
    61  cat file1
    62  sed '3c/welcome to my session' file1
-   63  history
+   63  Historyy
